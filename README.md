@@ -12,7 +12,7 @@ A Java Swing application for tracking student attendance in university classroom
 
 ## Screenshots
 
-(Screenshots will be available once the application is running)
+![Alt text](video_demo.gif)
 
 ## Requirements
 
