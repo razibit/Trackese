@@ -91,7 +91,3 @@ src/main/java/com/trackese/
 - Batch sections are stored in a `batch_sections.dat` file
 - Attendance records are stored in CSV files in the `attendance_data/` directory
 - Each batch & section has its own CSV file (e.g., `58_C.csv`)
-
-## License
-
-This project is available for educational purposes. 
